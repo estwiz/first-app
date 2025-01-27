@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  first-app
-//
-//  Created by Estifanos Abebe on 1/26/25.
-//
-
 import UIKit
 
 @main
